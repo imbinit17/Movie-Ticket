@@ -7,7 +7,7 @@ for the movie tickets and prints them to a receipt in form of a PDF
   Development Environment : Python
   
   
-  Libraries Used :- 
+  Libraries Used :-  
   Tkinter for GUI purposes
   FPDF for creating PDF
 

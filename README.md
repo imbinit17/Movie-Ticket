@@ -1,4 +1,4 @@
-#Movie-Ticket
+Movie-Ticket
 
 
 Working :- Accepts some necessary data of the customer and a few seat details and calculates the bill 
